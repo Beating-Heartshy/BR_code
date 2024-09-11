@@ -1,4 +1,4 @@
-Frame extraction, dynamic recognition, visual persistence
+
 # BR_code v1.0.0
 
 ## 🎉 发布说明
